@@ -1,2 +1,2 @@
-# Vips_BOT
- tentando fazer um but pro discord
+# VipsBOT
+ Treinando fazer um bot para o discord
